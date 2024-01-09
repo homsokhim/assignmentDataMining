@@ -1,5 +1,5 @@
-numpy
+numpy~=1.26.3
 matplotlib
 pandas
 jupyter
-sklearn
+seaborn
