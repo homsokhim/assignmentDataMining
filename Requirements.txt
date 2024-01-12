@@ -3,3 +3,7 @@ matplotlib
 pandas
 jupyter
 seaborn
+tensorflow
+requests~=2.31.0
+bs4~=0.0.1
+beautifulsoup4~=4.12.2
